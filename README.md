@@ -1,6 +1,6 @@
 <h3>Hi, I'm Riddhima 👋</h3>
 
-Computer Engineering student at UBC (BASc + Minor in Commerce, expected May 2028) building software for robots, embedded systems, and space tech. I lead the software team on a Mars rover, and I like working close to the hardware: real-time firmware, sensor pipelines, and debugging across the whole stack.
+Computer Engineering student at UBC (BASc + Minor in Commerce, expected May 2028) building software for robots, embedded systems, and space tech. I lead the software team on UBC Mars Rover, and I like working close to the hardware: real-time firmware, sensor pipelines, and debugging across the whole stack.
 
 **Things I code with are...**
 
@@ -106,7 +106,7 @@ Worked on a VR OSCE training simulation for nurse practitioners, built in Unreal
 - Generates grounded, cited answers using an LLM (Groq API) strictly from retrieved context
 - Evaluated on a 20-question ground-truth set: **90% SourceHitRate@3**
 
-🔗 [View repo](https://github.com/ultimate-patronum/REPO-NAME)
+🔗 [View repo](https://github.com/ultimate-patronum/rag-docs-assistant)
 
 </details>
 
@@ -119,7 +119,7 @@ Worked on a VR OSCE training simulation for nurse practitioners, built in Unreal
 - 3-task FreeRTOS pipeline with a mutex-protected SPI bus and interrupt-driven (ISR-to-task) sensor notification at 100 Hz
 - Validated task restart through fault injection and watchdog recovery; profiled per-task CPU usage with FreeRTOS runtime stats
 
-🔗 [View repo](https://github.com/ultimate-patronum/REPO-NAME)
+🔗 [View repo](https://github.com/ultimate-patronum/freertos-eeg-pipeline)
 
 </details>
 
@@ -132,7 +132,6 @@ Worked on a VR OSCE training simulation for nurse practitioners, built in Unreal
 - Full-stack scheduler integrating transit APIs with academic calendars, reducing planning time by 34%
 - Dockerized with CI/CD-driven deployment and automated UI tests
 
-🔗 [View repo](https://github.com/ultimate-patronum/REPO-NAME)
 
 </details>
 
@@ -145,7 +144,6 @@ Worked on a VR OSCE training simulation for nurse practitioners, built in Unreal
 - Connects restaurants with homeless shelters to redistribute surplus food, with inventory tracking and an automated recipe generator
 - Demoed as a full-stack MVP within 24 hours
 
-🔗 [View repo](https://github.com/ultimate-patronum/REPO-NAME)
 
 </details>
 
@@ -210,6 +208,7 @@ Worked on a VR OSCE training simulation for nurse practitioners, built in Unreal
 ## 🏅 Awards & Leadership
 
 - **IEEE UBC Student Branch:** Student Life Lead (Sep 2026 – Present)
+- **UBC Girls in STEAM**: Sponsorship Co-Director (Sept 2025 - Present)
 - **Teaching Assistant, UBC MATH 110** (Sep 2025 – Dec 2025)
 - **SPEAT BC Scholarship (2023):** STEM education and leadership contributions
 - **School Community and Leadership Award (2023):** 300+ volunteer hours
@@ -221,4 +220,4 @@ Worked on a VR OSCE training simulation for nurse practitioners, built in Unreal
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultimate-patronum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riddhima-gupta081)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riddhimagupta1208@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1LHQCqIf7tWqZTsInmdDpt46q7bv-eN3N/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1QENZhJyNgs1XDTtbPXzpoQMf8YySu5D6/view?usp=sharing)
